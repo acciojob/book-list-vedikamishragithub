@@ -13,6 +13,10 @@ input {
 }
 button#submit {
       padding: 5px 10px;
+	  color:white;
+	  background-color:blue;
+	  border-radius: 30px; 
+	 
 }
 button.delete {
   
